@@ -14,6 +14,7 @@ import { RouterLink } from "@angular/router";
 })
 export class LoginComponent {
   onSubmit() {
+    
     console.log("Formulario enviado");
   }
 
